@@ -5,7 +5,7 @@ updates:
     directory: "/"
     schedule:
       # Check for updates to GitHub Actions every month
-      interval: "monthly"
+      interval: "daily"
     groups:
       actions:
         patterns:
